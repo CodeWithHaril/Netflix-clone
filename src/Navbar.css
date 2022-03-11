@@ -1,0 +1,36 @@
+.Nav-logo img{
+    width: 120px;
+    object-fit: contain; 
+    position: fixed;
+    left: 20px;
+    top: 0px;
+}
+  .navblack{
+      background-color: #111;
+  }  
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    top:0px;
+    width: 100%;
+    height: 30px;
+   
+  
+    z-index: 1;
+    
+    
+    
+}
+.right-cont {
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    right: 17px;
+
+    object-fit: contain;
+    top: 15px;
+    
+}
